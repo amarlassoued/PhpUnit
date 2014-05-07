@@ -1,0 +1,9 @@
+Personne
+ [x] Nom must exists and have only letters
+ [x] Prenom must exists and have only letters
+ [x] Age must exists and have only numbers
+
+PremierJet
+ [x] True is true
+ [x] Equals
+
