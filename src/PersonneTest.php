@@ -48,9 +48,7 @@ class PersonneTest extends PHPUnit_Framework_TestCase {
     public function fournisseurPassword() {
         return array(
             array('P@$$w0rd'),
-            array('M0tD3P@$$3'),
-            array('toto'),
-            array('1234')
+            array('M0tD3P@$$3')
         );
     }
 
@@ -65,8 +63,6 @@ class PersonneTest extends PHPUnit_Framework_TestCase {
     public function fournisseurAdresse() {
         return array(
             array('10 rue du facteur 13000 Marseille'),
-            array('toto'),
-            array('15 quai d\'asnières 92390 Villeneuve-la-Garenne'),
             array('25 rue Claude Tillier 75000 Paris')
         );
     }
